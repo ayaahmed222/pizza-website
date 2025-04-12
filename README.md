@@ -22,6 +22,6 @@ A simple responsive website for a pizza restaurant, built using HTML, CSS, and J
 - Git & GitHub
 
 ## Author
-- **Your Name**
+- **Aya Ahmed Shawky**
 - [LinkedIn](https://www.linkedin.com/in/aya-ahmed-15b114247/)
 - [GitHub](https://github.com/ayaahmed222)
