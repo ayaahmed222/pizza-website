@@ -10,7 +10,7 @@ A simple responsive website for a pizza restaurant, built using HTML, CSS, and J
 - Google Fonts integration
 
 ## Live Demo
-[Click here to view website](https://your-github-username.github.io/your-repo-name/)
+[Click here to view website](https://ayaahmed222.github.io/pizza-website/)
 
 ## Screenshots
 ![screenshot](./screenshot.png)
